@@ -1,4 +1,4 @@
-# **Project 2 – Custom Encryption/Decryption Algorithm**
+# **Project 2 – Encryption/Decryption Algorithm**
 ### *By Bryce Cryan*
 
 ---
